@@ -1,4 +1,10 @@
-## Hi there 👋 I'm Lokeshwar
+<h1 align="center">Hi 👋, I'm Lokeshwar</h1>
+<h3 align="center">Embedded Systems Engineer | ARM7 • Embedded C • Linux Device Drivers • Bare-Metal</h3>
+
+<p align="center">
+💻 Passionate about low-level programming and real-time systems <br>
+⚙️ Turning code into real hardware solutions
+</p>
 
 💻 Embedded Systems Developer passionate about low-level programming and real-time systems.  
 ⚙️ I love writing code and turning ideas into real hardware solutions.
